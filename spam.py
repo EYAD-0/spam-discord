@@ -1,7 +1,8 @@
 import requests
 import time
+print("insta: pbzzp | discord: !      EYAD#8504")
 type = (input("What do you want to write:"))
-authorization = input("Enter authorization:")
+authorization = input("Enter Your token:")
 RequestURL = input("Enter Request URL:")
 rangee = int(input("How many times do you want to send this sentence:"))
 sleep = float(input("sleep:"))
