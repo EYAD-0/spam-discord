@@ -1,2 +1,2 @@
 # spam-discord
-spam discord exe
+spam discord
