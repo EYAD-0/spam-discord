@@ -1,6 +1,18 @@
 import requests
 import time
-print("insta: pbzzp | discord: !      EYAD#8504")
+banner = """
+
+                    ░██████╗  ██████╗░  ░█████╗░  ███╗░░░███╗
+                    ██╔════╝  ██╔══██╗  ██╔══██╗  ████╗░████║
+                    ╚█████╗░  ██████╔╝  ███████║  ██╔████╔██║
+                    ░╚═══██╗  ██╔═══╝░  ██╔══██║  ██║╚██╔╝██║
+                    ██████╔╝  ██║░░░░░  ██║░░██║  ██║░╚═╝░██║
+                    ╚═════╝░  ╚═╝░░░░░  ╚═╝░░╚═╝  ╚═╝░░░░░╚═╝
+
+                    [::] insta: pbzzp [::]
+                    [::] Created By : EYAD [::]
+"""
+print(banner)
 type = (input("What do you want to write:"))
 authorization = input("Enter Your token:")
 RequestURL = input("Enter Request URL:")
