@@ -14,6 +14,5 @@ You will find it higher
 
 
 Enjoy ):
-bc1qfa9zyy7sgscmk6wc67uwnh8nu0vl6ctwmhrwhr
 
 
